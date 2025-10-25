@@ -22,7 +22,7 @@ Techniques Used
 
 Results
 
-- Achieved ~81% validation accuracy on unseen data using Random Forest.
+- **Achieved ~81% validation accuracy** on unseen data using Random Forest.
 - Efficient handling of missing data and irrelevant columns.
 
 Libraries
