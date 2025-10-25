@@ -3,6 +3,7 @@
 Titanic Survival Prediction – Random Forest Model
 
 This is a machine learning project where I built a Random Forest model to predict passenger survival on the Titanic dataset provided by Kaggle.
+**Feature engineered using passenger data and insights from the ship’s actual layout to improve survival prediction.**
 
 Objective
 
